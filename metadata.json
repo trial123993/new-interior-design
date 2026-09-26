@@ -1,0 +1,8 @@
+{
+  "name": "RoomMagic MVP",
+  "description": "Renter-friendly room vibe transformation app using non-permanent decor, paint, furniture, and rugs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
